@@ -1,8 +1,8 @@
-Nombres, Edad,genero,Trabajo
-Moises,24,M,Programador
-Lluvia ,46,F,Repostera
-Aaron ,22,M,Chef
-Itzel,28,F,Doctora
-Alberto,26,M,Biotecnologo
-Junuen,27,F,Ing. Industrial
-Francisco,20,M ,Locutor
+Nombres,Edad,genero,Trabajo,Años Trabajando
+Moises,24,M,Programador,1
+Lluvia ,46,F,Repostera,30
+Aaron ,22,M,Chef,2
+Itzel,28,F,Doctora,5
+Alberto,26,M,Biotecnologo,3
+Junuen,27,F,Ing. Industrial,4
+Francisco,20,M ,Locutor,2
